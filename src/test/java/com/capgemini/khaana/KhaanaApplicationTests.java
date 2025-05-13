@@ -1,0 +1,13 @@
+package com.capgemini.khaana;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class KhaanaApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
